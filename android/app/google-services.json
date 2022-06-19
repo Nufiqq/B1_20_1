@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571145183863",
+    "project_id": "pamobilemcdonalds",
+    "storage_bucket": "pamobilemcdonalds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571145183863:android:c2a6254dfabd01fb17dc72",
+        "android_client_info": {
+          "package_name": "com.example.kelompok1_b1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571145183863-uhp3l1l904lma310rleo3iqu28v8rs3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7HtIxX0XithVr2W2A5gXFVXHIDOdp9bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571145183863-uhp3l1l904lma310rleo3iqu28v8rs3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
